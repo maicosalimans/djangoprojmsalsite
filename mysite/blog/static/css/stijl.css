@@ -7,15 +7,14 @@ header{
 margin-left: 200px;
 width: 100%;
 min-height: 250px;
-background-color: darkorange;
+background-color: #91ff00;
 }
-h1{
-    
+h1{   
 color: black;
 }
 
 article{
-width: 60%;
+margin-left 300px;
 border: 3px solid red;
 background-color: rgb(90, 10, 240);
 margin-bottom: 40px;
@@ -40,7 +39,7 @@ display: inline-block;
 
 #twee{
 width: 20%;
-min height: 250px;
+min-height: 250px;
 background-color: yellow;
 display: inline-block;
 }
