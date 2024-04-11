@@ -3,12 +3,6 @@ background-color:darkred;
 color: black;
 }
 
-header{
-margin-left: 200px;
-width: 100%;
-min-height: 250px;
-background-color: #91ff00;
-}
 h1{   
 color: black;
 }
@@ -21,13 +15,6 @@ margin-bottom: 40px;
 display: inline-block;
 }
     
-
-footer{
-width: 100%;
-min-height: 150px;
-background-color: darkorange;
-position: fixed;
-}
 
 
 
