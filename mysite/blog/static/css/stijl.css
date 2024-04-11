@@ -31,16 +31,3 @@ position: fixed;
 
 
 
-#een{
-width: 45%;
-min-height: 150px;
-display: inline-block;
-}
-
-#twee{
-width: 20%;
-min-height: 250px;
-background-color: yellow;
-display: inline-block;
-}
-
