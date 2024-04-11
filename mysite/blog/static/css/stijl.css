@@ -1,0 +1,47 @@
+body{
+background-color:darkred;
+color: black;
+}
+
+header{
+margin-left: 200px;
+width: 100%;
+min-height: 250px;
+background-color: darkorange;
+}
+h1{
+    
+color: black;
+}
+
+article{
+width: 20%;
+border: 3px solid red;
+background-color: pink;
+margin-bottom: 40px;
+display: inline-block;
+}
+    
+
+footer{
+width: 100%;
+min-height: 150px;
+background-color: darkorange;
+position: fixed;
+}
+
+
+
+#een{
+width: 45%;
+min-height: 150px;
+display: inline-block;
+}
+
+#twee{
+width: 20%;
+min height: 250px;
+background-color: yellow;
+display: inline-block;
+}
+
