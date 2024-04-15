@@ -8,7 +8,7 @@
 integrity=
 "sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
 crossorigin="anonymous">
-<link rel="stylesheet" href="{% static 'css/stijl1.css' %}">
+<link rel="stylesheet" type="text/css" href="{% static 'css/stijl1.css' %}">
 <title></title>
 </head>
 <body>
@@ -25,7 +25,7 @@ crossorigin="anonymous">
 <time class="date">
 {{ post.published_date }}
 </time>
-<h2><a href="">{{ post.title }}</a></h2>
+<h2 class="post-title-color"><a href="">{{ post.title }}</a></h2>
 <p>{{ post.text|linebreaksbr }}</p>
 </article>
 
@@ -34,6 +34,6 @@ crossorigin="anonymous">
 {% endfor %}
 {% endblock %}
 
-
+<footer></footer>
 </body>
 </html>
